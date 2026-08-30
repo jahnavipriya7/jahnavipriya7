@@ -18,7 +18,6 @@ Right now I'm looking for **Software Engineering** and **AI/ML** internships and
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -41,7 +40,7 @@ Right now I'm looking for **Software Engineering** and **AI/ML** internships and
 
 ## 🧩 LeetCode
 
-![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/?user=jahnavipriya7)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jahnavipriya7?theme=dark&ext=heatmap)
 
 ---
 
