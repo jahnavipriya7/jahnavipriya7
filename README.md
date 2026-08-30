@@ -28,19 +28,21 @@ Right now I'm looking for **Software Engineering** and **AI/ML** internships and
 
 ### [SecureDoc AI:A Privacy-Aware RAG System for Secure Document Intelligence](https://github.com/jahnavipriya7/secure-rag)
 
+---
+
 ## 📊 GitHub Stats
 
-![Jahnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnavipriya7&show_icons=true&theme=tokyonight&hide_border=true)
+![Jahnavi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jahnavipriya7&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavipriya7&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahnavipriya7&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnavipriya7&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jahnavipriya7&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧩 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jahnavipriya7?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jahnavi_priya7?theme=dark&ext=heatmap)
 
 ---
 
